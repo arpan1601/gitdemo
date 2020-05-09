@@ -1,6 +1,7 @@
 #! /bin/bash
-PASSWORD=$(date +%s)
+WORD=$(date +%s)
 echo " $(PASSWORD)"
+
 #commnet
 echo "Hello Jenkins"
 echo "Hi Jen"
